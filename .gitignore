@@ -1,0 +1,8 @@
+*.pth 
+*.txt 
+__pycache__/
+*.log
+.env
+*.dist 
+.vscode/
+*.ipynb_checkpoints/
