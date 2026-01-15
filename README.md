@@ -2,7 +2,7 @@
  
 This repository contains the code to reproduce the experiments presented in the paper. 
 
-![Teaser image](./imgs/teasor_v2_standalone.png)
+<img src="./imgs/teasor_v2_standalone.png" width="60%" style="background-color: white;" alt="Teaser image">
 
 The code is implemented in Python using PyTorch.
 The only requirement is PyTorch. You can install it via pip:
