@@ -1,4 +1,4 @@
-## Code for the paper: An analytic theory of convolutional neural network inverse problems solvers
+## Code for the paper: [An analytic theory of convolutional neural network inverse problems solvers](https://arxiv.org/abs/2601.10334)
  
 This repository contains the code to reproduce the experiments presented in the paper. 
 
